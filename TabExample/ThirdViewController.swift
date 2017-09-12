@@ -53,6 +53,12 @@ class ThirdViewController: UIViewController {
                 destinationVC.pagetodisplay = 3
             }
         }
+        if segue.identifier == "sub5"
+        {
+            if let destinationVC = segue.destination as? SubTabBarController {
+                destinationVC.pagetodisplay = 4
+            }
+        }
     }
     
 

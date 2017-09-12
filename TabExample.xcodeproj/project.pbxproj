@@ -19,6 +19,8 @@
 		3666EA501F63918300C5D1AA /* Sub3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3666EA4F1F63918300C5D1AA /* Sub3ViewController.swift */; };
 		3666EA521F63918F00C5D1AA /* Sub4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3666EA511F63918F00C5D1AA /* Sub4ViewController.swift */; };
 		3666EA541F639CBA00C5D1AA /* SubTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3666EA531F639CBA00C5D1AA /* SubTabBarController.swift */; };
+		36FAEA5B1F68590800075038 /* Sub5ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FAEA5A1F68590800075038 /* Sub5ViewController.swift */; };
+		36FAEA5D1F68591500075038 /* Sub6ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FAEA5C1F68591500075038 /* Sub6ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		3666EA4F1F63918300C5D1AA /* Sub3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sub3ViewController.swift; sourceTree = "<group>"; };
 		3666EA511F63918F00C5D1AA /* Sub4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sub4ViewController.swift; sourceTree = "<group>"; };
 		3666EA531F639CBA00C5D1AA /* SubTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubTabBarController.swift; sourceTree = "<group>"; };
+		36FAEA5A1F68590800075038 /* Sub5ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sub5ViewController.swift; sourceTree = "<group>"; };
+		36FAEA5C1F68591500075038 /* Sub6ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Sub6ViewController.swift; path = ../Sub6ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 				3666EA4F1F63918300C5D1AA /* Sub3ViewController.swift */,
 				3666EA511F63918F00C5D1AA /* Sub4ViewController.swift */,
 				3666EA531F639CBA00C5D1AA /* SubTabBarController.swift */,
+				36FAEA5A1F68590800075038 /* Sub5ViewController.swift */,
+				36FAEA5C1F68591500075038 /* Sub6ViewController.swift */,
 			);
 			path = TabExample;
 			sourceTree = "<group>";
@@ -161,10 +167,12 @@
 				3666EA521F63918F00C5D1AA /* Sub4ViewController.swift in Sources */,
 				3666EA4E1F63917800C5D1AA /* Sub2ViewController.swift in Sources */,
 				3666EA4C1F63916B00C5D1AA /* Sub1ViewController.swift in Sources */,
+				36FAEA5B1F68590800075038 /* Sub5ViewController.swift in Sources */,
 				3666EA3A1F638DB100C5D1AA /* SecondViewController.swift in Sources */,
 				3666EA501F63918300C5D1AA /* Sub3ViewController.swift in Sources */,
 				3666EA541F639CBA00C5D1AA /* SubTabBarController.swift in Sources */,
 				3666EA361F638DB100C5D1AA /* AppDelegate.swift in Sources */,
+				36FAEA5D1F68591500075038 /* Sub6ViewController.swift in Sources */,
 				3666EA4A1F638EC300C5D1AA /* ThirdViewController.swift in Sources */,
 				3666EA381F638DB100C5D1AA /* FirstViewController.swift in Sources */,
 			);
@@ -332,6 +340,7 @@
 				3666EA481F638DB100C5D1AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
